@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Belajar Pintar",
+  "description": "Asisten belajar AI pintar interaktif untuk berbagai mata pelajaran sekolah SMP/MTs dengan pemisah tombol Kelas 7, Kelas 8, dan Kelas 9.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
